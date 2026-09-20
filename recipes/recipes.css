@@ -1,0 +1,31 @@
+.main {
+  margin: 20px;
+}
+
+.ingredients__flexbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.ingredients__container {
+  flex: 1;
+}
+
+.flexbox__image {
+  margin-right: 30px;
+  border-radius: 10px;
+  border: 3px solid #32405c;
+  max-width: 250px;
+}
+
+.steps li {
+  margin: 10px 0;
+}
+
+.image__container {
+  display: flex;
+  flex: 0;
+}
+
